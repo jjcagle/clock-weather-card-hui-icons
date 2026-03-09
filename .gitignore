@@ -1,0 +1,9 @@
+/node_modules/
+/.rpt2_cache/
+package-lock.json
+/dist
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
