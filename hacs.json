@@ -1,5 +1,7 @@
 {
-    "name": "Clock Weather Card HUI Icons",
-    "render_readme": true,
-    "filename": "clock-weather-card-hui-icons.js"
+  "name": "Clock Weather Card HUI Icons",
+  "content_in_root": false,
+  "render_readme": true,
+  "filename": "dist/clock-weather-card-hui-icons.js",
+  "type": "plugin"
 }
